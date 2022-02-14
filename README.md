@@ -1,1 +1,3 @@
 # implementation-os-sudoku-using-greedy-and-simulated-annealing-
+
+Sudoku is a logic puzzle, consisting of a 9×9 grid and further subdivided into „mini-grids‟ of size 3×3. Each row, column, and 3×3 mini-grid contains the numbers 1 to 9 once, with a true Sudoku grid having a unique solution. In report paper the Sudoku problem is solved using greedy search and simulated annealing techniques. The execution tie also calculated. The results obtained show that both are able to solve the Sudoku puzzle with greedy search finding a solution in 0.002 seconds, while simulated annealing  finding a solution in 0.769 seconds and. We used python to implement the game
